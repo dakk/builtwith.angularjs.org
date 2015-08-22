@@ -2,6 +2,22 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "EthereumWisdom",
+    "thumb": "ethereumwisdom/thumb.png",
+    "desc": "Description of your app",
+    "url": "http://www.ethereumwisdom.com",
+    "info": "http://blog.openbitlab.com/?p=127",
+    "submitter": "dakk",
+    "submissionDate": "2015-08-22",
+    "tags": [
+      "Production",
+      "Productivity", 
+      "Finance",
+      "Trading",
+      "Ethereum"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
